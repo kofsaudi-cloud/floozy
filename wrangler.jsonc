@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "floozy",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "Floozy",
+      "database_id": "e9634622-32aa-4d4e-8c91-ae6b92517a26"
+    }
+  ]
+}
